@@ -1,0 +1,24 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/giant-cell-arteritis---primary.py
+inputModule3:
+  class: File
+  path: python/other-giant-cell-arteritis---primary.py
+inputModule4:
+  class: File
+  path: python/giant-cell-arteritis-horton's---primary.py
+inputModule5:
+  class: File
+  path: python/cell---primary.py
+inputModule6:
+  class: File
+  path: python/giant-cell-arteritis-rheumatica---primary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
